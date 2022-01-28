@@ -10,6 +10,7 @@
 |26/01/2022 | [1305. All Elements in Two Binary Search Trees](https://leetcode.com/problems/all-elements-in-two-binary-search-trees/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/1305._All_Elements_in_Two_Binary_Search_Trees.java) | Iterative inorder traversal of both trees in parallel and at each step add smallest value in output|
 |25/01/2022 | [941. Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/941._Valid_Mountain_Array.java) | After walking up the hill , one should not be at start/end of array. After walking down the hill , one should be at end of array|
 |24/01/2022 | [520. Detect Capital](https://leetcode.com/problems/detect-capital/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/520._Detect_Capital.java) | Iterate over characters of string to check if it is uppercase , lowercase or only first letter is upper case|
+|23/01/2022 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/1291._Sequential_Digits.java) | Using Sliding Window , precompute candidate substrings from input "123456789" and add to result ones that fall in range [low,high]|
 
 
 
