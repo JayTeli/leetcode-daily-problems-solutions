@@ -1,5 +1,5 @@
 https://leetcode.com/problems/richest-customer-wealth/
-// Algo 1 : Iterate over matrix : O(n) , O(1)
+// Algo 1 : Iterate over matrix : O(mn) , O(1)
 // Iterate over matrix and keep track of maxWealth for each row.
 class Solution {
     public int maximumWealth(int[][] accounts) {
