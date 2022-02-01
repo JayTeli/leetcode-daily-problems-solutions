@@ -5,6 +5,7 @@
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
+|01/02/2022 | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/121._Best_Time_to_Buy_and_Sell_Stock.java) | In single pass , keep track of minPrice and maxProfit(currentPrice-MinPrice)|
 |31/01/2022 | [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/1672._Richest_Customer_Wealth.java) | Iterate over matrix and keep track of maxWealth for each row.|
 |30/01/2022 | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/189._Rotate_Array.java) | In multiple pass approach , once can reverse array full array then part of array (first k & then last n-k elements). For single pass , cyclic replacement is done calculating newIndex based on oldIndex|
 |29/01/2022 | [84. Largest Rectangle in Histogram](https://leetcode.com/problems/largest-rectangle-in-histogram/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/84._Largest_Rectangle_in_Histogram.java) | Using 1.Divide and Conquer with/without Segment tree and 2. with stack are two ways|
