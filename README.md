@@ -22,7 +22,9 @@
 |Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
 |----------|:---------:|:-----:|----------|
 | Array , HashTable| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
+|Dynamic Programming , Array | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/121._Best_Time_to_Buy_and_Sell_Stock.java) , [Python](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/python/121._Best_Time_to_Buy_and_Sell_Stock.py)| In single pass , keep track of minPrice and maxProfit(currentPrice-MinPrice)|
 | Dynamic Programming , Array| [House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/198._House_Robber.java) | robFrom(i)=max(robFrom(i+1),robFrom(i+2)+nums(i)) |
+| Trie , Backtracking , Matrix| [Word Search II](https://leetcode.com/problems/word-search-ii) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/212._Word_Search_II.java) | Build Trie , Backtrack by temporarily marking current element as #, if children exists in trie , move deeper for the child , until desired word from wordlist is found. |
 
 
 
