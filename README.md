@@ -1,6 +1,6 @@
 # leetcode-daily-problems-solutions
 
-### Leetcode Daily Challenge :
+### [Leetcode Daily Challenge](https://leetcode.com/problemset/all/) :
 
 
 |Date  | Problem  | Solution  | Comment|
