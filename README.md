@@ -21,7 +21,7 @@
 
 |Problem  | Solution  | Comment|
 |-------|:-----:|--------|
-| [TODO](TODO) | [Solution](TODO) | TODO|
+| [1. Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
 
 
 
