@@ -19,7 +19,7 @@
 
 ### [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : 
 
-|Tag  |Problem  | Solution  | Comment|
+|Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
 |----------|:---------:|:-----:|----------|
 | Array , HashTable| [Two Sum](https://leetcode.com/problems/two-sum/) | [Solution](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
 
