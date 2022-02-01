@@ -23,6 +23,7 @@
 |----------|:---------:|:-----:|----------|
 | Array , HashTable| [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
 | Dynamic Programming , Array| [House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/198._House_Robber.java) | robFrom(i)=max(robFrom(i+1),robFrom(i+2)+nums(i)) |
+| Trie , Backtracking , Matrix| [Word Search II](https://leetcode.com/problems/word-search-ii) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/212._Word_Search_II.java) | Build Trie , Backtrack by temporarily marking current element as #, if children exists in trie , move deeper for the child , until desired word from wordlist is found. |
 
 
 
