@@ -25,7 +25,7 @@
 | Array | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
 | Array | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/121._Best_Time_to_Buy_and_Sell_Stock.java) , [Python](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/python/121._Best_Time_to_Buy_and_Sell_Stock.py) | In single pass , keep track of minPrice and maxProfit(currentPrice-MinPrice) |
 | Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/217._Contains_Duplicate.java) | Use HashSet to detect dupes.|
-| Array | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | ComingSoon | |
+| Array | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/238._Product_of_Array_Except_Self.java) | ans=leftProduct[i]*rightProduct[i]; leftProduct[i] = nums[i-1]*leftProduct[i-1]; |
 | Array | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ComingSoon | |
 | Array | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | ComingSoon | |
 | Array | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ComingSoon | |
@@ -262,7 +262,7 @@
 | WIP-Tag | 44. Wildcard Matching | ComingSoon | WIP-Comment |
 | WIP-Tag | 543. Diameter of Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period | ComingSoon | WIP-Comment |
-| WIP-Tag | 238. Product of Array Except Self | ComingSoon | WIP-Comment |
+| WIP-Tag | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/238._Product_of_Array_Except_Self.java) | ans=leftProduct[i]*rightProduct[i]; leftProduct[i] = nums[i-1]*leftProduct[i-1]; |
 | WIP-Tag | 84. Largest Rectangle in Histogram | ComingSoon | WIP-Comment |
 | WIP-Tag | 723. Candy Crush | ComingSoon | WIP-Comment |
 | WIP-Tag | 287. Find the Duplicate Number | ComingSoon | WIP-Comment |
