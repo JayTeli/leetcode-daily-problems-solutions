@@ -103,7 +103,7 @@
 
 |Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
 |----------|:---------:|:-----:|----------|
-| WIP-Tag | 1. Two Sum | ComingSoon | WIP-Comment |
+| Array | [Two Sum](https://leetcode.com/problems/two-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1._Two_Sum.java) | While iterating array , check if complement exists in HashMap. if yes , return it; if no put in HashMap |
 | WIP-Tag | 146. LRU Cache | ComingSoon | WIP-Comment |
 | WIP-Tag | 56. Merge Intervals | ComingSoon | WIP-Comment |
 | WIP-Tag | 42. Trapping Rain Water | ComingSoon | WIP-Comment |
