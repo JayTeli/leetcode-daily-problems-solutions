@@ -113,7 +113,7 @@
 | WIP-Tag | 1235. Maximum Profit in Job Scheduling | ComingSoon | WIP-Comment |
 | WIP-Tag | 2. Add Two Numbers | ComingSoon | WIP-Comment |
 | WIP-Tag | 20. Valid Parentheses | ComingSoon | WIP-Comment |
-| WIP-Tag | 121. Best Time to Buy and Sell Stock | ComingSoon | WIP-Comment |
+| Array | [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/121._Best_Time_to_Buy_and_Sell_Stock.java) , [Python](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/python/121._Best_Time_to_Buy_and_Sell_Stock.py)| In single pass , keep track of minPrice and maxProfit(currentPrice-MinPrice)|
 | WIP-Tag | 3. Longest Substring Without Repeating Characters | ComingSoon | WIP-Comment |
 | WIP-Tag | 1249. Minimum Remove to Make Valid Parentheses | ComingSoon | WIP-Comment |
 | WIP-Tag | 7. Reverse Integer | ComingSoon | WIP-Comment |
@@ -229,7 +229,7 @@
 | WIP-Tag | 322. Coin Change | ComingSoon | WIP-Comment |
 | WIP-Tag | 6. Zigzag Conversion | ComingSoon | WIP-Comment |
 | WIP-Tag | 862. Shortest Subarray with Sum at Least K | ComingSoon | WIP-Comment |
-| WIP-Tag | 217. Contains Duplicate | ComingSoon | WIP-Comment |
+| Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/217._Contains_Duplicate.java) | Use HashSet to detect dupes.|
 | WIP-Tag | 207. Course Schedule | ComingSoon | WIP-Comment |
 | WIP-Tag | 32. Longest Valid Parentheses | ComingSoon | WIP-Comment |
 | WIP-Tag | 34. Find First and Last Position of Element in Sorted Array | ComingSoon | WIP-Comment |
