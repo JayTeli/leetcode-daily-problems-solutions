@@ -40,7 +40,7 @@
 | Dynamic Programming | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ComingSoon | |
 | Dynamic Programming | [Coin Change](https://leetcode.com/problems/coin-change/) | ComingSoon | |
 | Dynamic Programming | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | ComingSoon | |
-| Dynamic Programming | [Longest Common Subsequence -
+| Dynamic Programming | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | ComingSoon | |
 | Dynamic Programming | [Word Break Problem](https://leetcode.com/problems/word-break/) | ComingSoon | |
 | Dynamic Programming | [Combination Sum](https://leetcode.com/problems/combination-sum-iv/) | ComingSoon | |
 | Dynamic Programming | [House Robber](https://leetcode.com/problems/house-robber/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/198._House_Robber.java) | robFrom(i)=max(robFrom(i+1),robFrom(i+2)+nums(i)) |
