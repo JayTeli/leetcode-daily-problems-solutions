@@ -262,7 +262,7 @@
 | WIP-Tag | 44. Wildcard Matching | ComingSoon | WIP-Comment |
 | WIP-Tag | 543. Diameter of Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1604. Alert Using Same Key-Card Three or More Times in a One Hour Period | ComingSoon | WIP-Comment |
-| WIP-Tag | | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/238._Product_of_Array_Except_Self.java) | ans=leftProduct[i]*rightProduct[i]; leftProduct[i] = nums[i-1]*leftProduct[i-1]; |
+| WIP-Tag | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/238._Product_of_Array_Except_Self.java) | ans=leftProduct[i]*rightProduct[i]; leftProduct[i] = nums[i-1]*leftProduct[i-1]; |
 | WIP-Tag | 84. Largest Rectangle in Histogram | ComingSoon | WIP-Comment |
 | WIP-Tag | 723. Candy Crush | ComingSoon | WIP-Comment |
 | WIP-Tag | 287. Find the Duplicate Number | ComingSoon | WIP-Comment |
