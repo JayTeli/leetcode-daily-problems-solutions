@@ -1,7 +1,10 @@
-# leetcode-daily-problems-solutions
+## Table of contents :
+1. [Leetcode daily challenge problems](#leetcode-daily-challenge)
+2. [Blind 75](#blind-75)
+3. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
 
-### [Leetcode Daily Challenge](https://leetcode.com/problemset/all/) :
-
+### Leetcode Daily Challenge
+https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
@@ -18,7 +21,8 @@
 |23/01/2022 | [1291. Sequential Digits](https://leetcode.com/problems/sequential-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1291._Sequential_Digits.java) | Using Sliding Window , precompute candidate substrings from input "123456789" and add to result ones that fall in range [low,high]|
 <br>
 
-### [Blind 75](https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU) : 
+### Blind 75
+https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Questions-to-Save-Your-Time-OaM1orEU
 
 |Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
 |----------|:---------:|:-----:|----------|
@@ -99,7 +103,8 @@
 | Heap | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ComingSoon | |
 <br>
 
-### [Top 500 Leetcode Questions](https://leetcode.com/problemset/all/) : 
+### Top 500 Leetcode Questions
+https://leetcode.com/problemset/all
 
 |Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
 |----------|:---------:|:-----:|----------|
