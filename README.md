@@ -184,7 +184,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 269. Alien Dictionary | ComingSoon | WIP-Comment |
 | WIP-Tag | 937. Reorder Data in Log Files | ComingSoon | WIP-Comment |
 | WIP-Tag | 981. Time Based Key-Value Store | ComingSoon | WIP-Comment |
-| WIP-Tag | 18. 4Sum | ComingSoon | WIP-Comment |
+| Two pointers | [18. 4Sum](https://leetcode.com/problems/4sum) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/18._4Sum.java) | resursively solve kSum with base case soln for TwoSum (solved via two pointers) and optimizations like sorting to skip dupe neighbours. skipping cases like smallestValueInKValues > target/k , largestValueInKValues < target/k |
 | WIP-Tag | 244. Shortest Word Distance II | ComingSoon | WIP-Comment |
 | WIP-Tag | 453. Minimum Moves to Equal Array Elements | ComingSoon | WIP-Comment |
 | WIP-Tag | 1268. Search Suggestions System | ComingSoon | WIP-Comment |
