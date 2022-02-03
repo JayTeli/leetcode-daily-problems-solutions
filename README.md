@@ -33,7 +33,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Array | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/238._Product_of_Array_Except_Self.java) | ans=leftProduct[i]*rightProduct[i]; leftProduct[i] = nums[i-1]*leftProduct[i-1]; |
 | Array | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ComingSoon | |
 | Array | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/152._Maximum_Product_Subarray.java) | Keep track of prevMaxSoFar , newMaxSoFar , minSoFar to get result. Odd no of Negative numbers and zeros can be hurdles to build max prod subarray|
-| Array | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | ComingSoon | |
+| Array | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/153._Find_Minimum_in_Rotated_Sorted_Array.java) | Binary search with base cases like aLength = 0,1; rotation=0/a.length Times; mid=largest,mid=smallest; and identify smallest on which side.|
 | Array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ComingSoon | |
 | Array | [3Sum](https://leetcode.com/problems/3sum/) | ComingSoon | |
 | Array | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ComingSoon | |
