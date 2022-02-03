@@ -469,7 +469,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1347. Minimum Number of Steps to Make Two Strings Anagram | ComingSoon | WIP-Comment |
 | WIP-Tag | 545. Boundary of Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 316. Remove Duplicate Letters | ComingSoon | WIP-Comment |
-| WIP-Tag | 152. Maximum Product Subarray | ComingSoon | WIP-Comment |
+| Dynamic Programming | [152. Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/152._Maximum_Product_Subarray.java) | Keep track of prevMaxSoFar , newMaxSoFar , minSoFar to get result. Odd no of Negative numbers and zeros can be hurdles to build max prod subarray|
 | WIP-Tag | 240. Search a 2D Matrix II | ComingSoon | WIP-Comment |
 | WIP-Tag | 427. Construct Quad Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 101. Symmetric Tree | ComingSoon | WIP-Comment |
