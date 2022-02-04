@@ -37,7 +37,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ComingSoon | |
 | Array | [3Sum](https://leetcode.com/problems/3sum/) | ComingSoon | |
 | Array | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ComingSoon | |
-| Binary | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | ComingSoon | |
+| Binary | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/371._Sum_of_Two_Integers.java) | a^b => sum of a and b without carry; (a&b)<<1 => carry; a^b => diff of a and n without borrow ; ((~x)&y)<<1 => borrow; loop conditions will be carry/borrow != 0; return sign*x |
 | Binary | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ComingSoon | |
 | Binary | [Counting Bits](https://leetcode.com/problems/counting-bits/) | ComingSoon | |
 | Binary | [Missing Number](https://leetcode.com/problems/missing-number/) | ComingSoon | |
@@ -549,7 +549,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 309. Best Time to Buy and Sell Stock with Cooldown | ComingSoon | WIP-Comment |
 | WIP-Tag | 769. Max Chunks To Make Sorted | ComingSoon | WIP-Comment |
 | WIP-Tag | 729. My Calendar I | ComingSoon | WIP-Comment |
-| WIP-Tag | 371. Sum of Two Integers | ComingSoon | WIP-Comment |
+| Bit Manipulation | [371. Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/371._Sum_of_Two_Integers.java) | a^b => sum of a and b without carry; (a&b)<<1 => carry; a^b => diff of a and n without borrow ; ((~x)&y)<<1 => borrow; loop conditions will be carry/borrow != 0; return sign*x |
 | WIP-Tag | 172. Factorial Trailing Zeroes | ComingSoon | WIP-Comment |
 | WIP-Tag | 168. Excel Sheet Column Title | ComingSoon | WIP-Comment |
 | WIP-Tag | 539. Minimum Time Difference | ComingSoon | WIP-Comment |
