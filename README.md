@@ -38,7 +38,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Array | [3Sum](https://leetcode.com/problems/3sum/) | ComingSoon | |
 | Array | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ComingSoon | |
 | Binary | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/371._Sum_of_Two_Integers.java) | a^b => sum of a and b without carry; (a&b)<<1 => carry; a^b => diff of a and n without borrow ; ((~x)&y)<<1 => borrow; loop conditions will be carry/borrow != 0; return sign*x |
-| Binary | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | ComingSoon | |
+| Binary | [Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) | [Java](https://leetcode.com/problems/number-of-1-bits/) | Get ith bit using bitwise-AND to a bit mask which is initally 1 and later left shifted by 1 for 32 times.(n & (n-1)) flips the rightmost 1 (LSB 1-bit).hammingweight = #flips until no becomes 0|
 | Binary | [Counting Bits](https://leetcode.com/problems/counting-bits/) | ComingSoon | |
 | Binary | [Missing Number](https://leetcode.com/problems/missing-number/) | ComingSoon | |
 | Binary | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | ComingSoon | |
