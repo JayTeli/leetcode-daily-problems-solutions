@@ -100,7 +100,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Tree | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ComingSoon | |
 | Tree | [Add and Search Word](https://leetcode.com/problems/add-and-search-word-data-structure-design/) | ComingSoon | |
 | Tree | [Word Search II](https://leetcode.com/problems/word-search-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/212._Word_Search_II.java) | Build Trie , Backtrack by temporarily marking current element as #, if children exists in trie , move deeper for the child , until desired word from wordlist is found. |
-| Heap | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | ComingSoon | |
+| Heap | [Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/23._Merge_k_Sorted_Lists.java) | In Algo 1 , add all elements of all lists to Heap(Priority Queue + Comparator) then poll pq and set next of prev node to polled element. In Algo 2 without Heap , use divide and conquer to break the list into half with base case of size 2 returning smaller no. then merge left and right lists , with currentNode pointer's next pointing to the smaller head of the two lists.|
 | Heap | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | ComingSoon | |
 | Heap | [Find Median from Data Stream](https://leetcode.com/problems/find-median-from-data-stream/) | ComingSoon | |
 <br>
@@ -150,7 +150,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 17. Letter Combinations of a Phone Number | ComingSoon | WIP-Comment |
 | WIP-Tag | 212. Word Search II | ComingSoon | WIP-Comment |
 | WIP-Tag | 1326. Minimum Number of Taps to Open to Water a Garden | ComingSoon | WIP-Comment |
-| WIP-Tag | 23. Merge k Sorted Lists | ComingSoon | WIP-Comment |
+| Divide and Conquer , Heap | [23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/23._Merge_k_Sorted_Lists.java) | In Algo 1 , add all elements of all lists to Heap(Priority Queue + Comparator) then poll pq and set next of prev node to polled element. In Algo 2 without Heap , use divide and conquer to break the list into half with base case of size 2 returning smaller no. then merge left and right lists , with currentNode pointer's next pointing to the smaller head of the two lists.|
 | WIP-Tag | 33. Search in Rotated Sorted Array | ComingSoon | WIP-Comment |
 | WIP-Tag | 236. Lowest Common Ancestor of a Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1041. Robot Bounded In Circle | ComingSoon | WIP-Comment |
