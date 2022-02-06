@@ -43,7 +43,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Binary | [Counting Bits](https://leetcode.com/problems/counting-bits/) | ComingSoon | |
 | Binary | [Missing Number](https://leetcode.com/problems/missing-number/) | ComingSoon | |
 | Binary | [Reverse Bits](https://leetcode.com/problems/reverse-bits/) | ComingSoon | |
-| Dynamic Programming | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | ComingSoon | |
+| Dynamic Programming | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/70._Climbing_Stairs.java) | recursion : climbStairs(i) = climbStairs(i+1) + climbStairs(i+2); Recursion + Memo ; dp[i] = dp[i-1] + dp[i-2] ; f(n)=f(n−1)+f(n−2) ; .Fn = (1/sqrt(5)) *[x^n - y^n] .. x = (1+sqrt(5))/2 , y = (1-sqrt(5))/2|
 | Dynamic Programming | [Coin Change](https://leetcode.com/problems/coin-change/) | ComingSoon | |
 | Dynamic Programming | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) | ComingSoon | |
 | Dynamic Programming | [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/) | ComingSoon | |
@@ -222,7 +222,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 199. Binary Tree Right Side View | ComingSoon | WIP-Comment |
 | WIP-Tag | 994. Rotting Oranges | ComingSoon | WIP-Comment |
 | WIP-Tag | 55. Jump Game | ComingSoon | WIP-Comment |
-| WIP-Tag | 70. Climbing Stairs | ComingSoon | WIP-Comment |
+| Dynamic Programming | [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/70._Climbing_Stairs.java) | recursion : climbStairs(i) = climbStairs(i+1) + climbStairs(i+2); Recursion + Memo ; dp[i] = dp[i-1] + dp[i-2] ; f(n)=f(n−1)+f(n−2) ; .Fn = (1/sqrt(5)) *[x^n - y^n] .. x = (1+sqrt(5))/2 , y = (1-sqrt(5))/2|
 | WIP-Tag | 540. Single Element in a Sorted Array | ComingSoon | WIP-Comment |
 | WIP-Tag | 16. 3Sum Closest | ComingSoon | WIP-Comment |
 | WIP-Tag | 332. Reconstruct Itinerary | ComingSoon | WIP-Comment |
