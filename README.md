@@ -518,7 +518,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 836. Rectangle Overlap | ComingSoon | WIP-Comment |
 | WIP-Tag | 977. Squares of a Sorted Array | ComingSoon | WIP-Comment |
 | WIP-Tag | 587. Erect the Fence | ComingSoon | WIP-Comment |
-| WIP-Tag | 136. Single Number | ComingSoon | WIP-Comment |
+| Bit Manipulation | [136. Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/136._Single_Number.java) | XOR all elememts |
 | WIP-Tag | 160. Intersection of Two Linked Lists | ComingSoon | WIP-Comment |
 | WIP-Tag | 321. Create Maximum Number | ComingSoon | WIP-Comment |
 | WIP-Tag | 219. Contains Duplicate II | ComingSoon | WIP-Comment |
