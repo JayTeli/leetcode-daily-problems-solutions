@@ -465,7 +465,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 57. Insert Interval | ComingSoon | WIP-Comment |
 | WIP-Tag | 1881. Maximum Value after Insertion | ComingSoon | WIP-Comment |
 | WIP-Tag | 679. 24 Game | ComingSoon | WIP-Comment |
-| WIP-Tag | 137. Single Number II | ComingSoon | WIP-Comment |
+| WIP-Tag | [137. Single Number II](https://leetcode.com/problems/single-number-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/137._Single_Number_II.java) | Solving using HashMap/HashSet takes O(n) SC so Solve  BitManipulation for O(1) SC |
 | WIP-Tag | 69. Sqrt(x) | ComingSoon | WIP-Comment |
 | WIP-Tag | 188. Best Time to Buy and Sell Stock IV | ComingSoon | WIP-Comment |
 | WIP-Tag | 616. Add Bold Tag in String | ComingSoon | WIP-Comment |
