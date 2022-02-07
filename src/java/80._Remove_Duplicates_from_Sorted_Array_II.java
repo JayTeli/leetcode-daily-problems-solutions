@@ -26,7 +26,7 @@ class Solution {
         return a;
     }    
 }
-// Algo 2 : Two pointers
+// Algo 2 : Two pointers : O(n) , O(1)
 // 1. Keep track of uniqueFoundSoFar,consecutiveFreq
 // 2. Two pointer : i (index) , uniqueFoundSoFar
 // 3. if adjecent dupes , consecutiveFreq++ else consecutiveFreq=1
