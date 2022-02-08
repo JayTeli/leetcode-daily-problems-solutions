@@ -13,7 +13,7 @@ public class Solution {
     public int[] countBits(int n) {
         int[] hammingWeightArray = new int[n + 1];
         for (int i = 0; i <= n; i++)
-            hammingWeightArray[i] = popCount(i);
+            hammingWeightArray[i] = hammingWeight(i);
         return hammingWeightArray;
     }
 }
