@@ -8,7 +8,7 @@ https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
-|08/02/2022 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/258._Add_Digits.java)| Digit root : num == 0 ? 0 : 1 + (num - 1) % 9 | 
+|08/02/2022 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/258._Add_Digits.java)| Digit root : x == 0 ? 0 : 1 + (x-1)%9 | 
 |07/02/2022 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/389._Find_the_Difference.java)| Starting result with last char of 2nd string , XOR ^ all chars of both strings L to R.|
 |06/02/2022 | [80. Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/80._Remove_Duplicates_from_Sorted_Array_II.java)| Keep track of uniqueFoundSoFar,consecutiveFreq.Two pointer : i (index) , uniqueFoundSoFar.if adjecent dupes , consecutiveFreq++ else consecutiveFreq=1.if consecutiveFreq<=2, set consecutiveFreqTH index with current element and consecutiveFreq uniqueFoundSoFar++; |
 |05/02/2022 | [23. Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/23._Merge_k_Sorted_Lists.java)| Divide And Conquer : divide into lowToMid and mid+1ToEnd and then merge their solutions recursively. one base case low==high return low|
