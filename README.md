@@ -268,7 +268,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 394. Decode String | ComingSoon | WIP-Comment |
 | WIP-Tag | 329. Longest Increasing Path in a Matrix | ComingSoon | WIP-Comment |
 | WIP-Tag | 1405. Longest Happy String | ComingSoon | WIP-Comment |
-| WIP-Tag | 532. K-diff Pairs in an Array | ComingSoon | WIP-Comment |
+| Sorting + Two Pointer , HashMap | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/532._K-diff_Pairs_in_an_Array.java) | Sort + if diff == k then ++uniquePairs and left = skipLeftDuplicateNeighbours(left , nums);else if(diff < k) ++right;else ++left;if(left == right) ++right; HashMap : set freq , for k == 0 if value >= 2 , count++ else if k > 0 , for key=x,if key=x+k exists then count++|
 | WIP-Tag | 370. Range Addition | ComingSoon | WIP-Comment |
 | WIP-Tag | 44. Wildcard Matching | ComingSoon | WIP-Comment |
 | WIP-Tag | 543. Diameter of Binary Tree | ComingSoon | WIP-Comment |
