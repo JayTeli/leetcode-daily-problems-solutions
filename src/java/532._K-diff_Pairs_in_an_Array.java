@@ -1,6 +1,7 @@
 https://leetcode.com/problems/k-diff-pairs-in-an-array
 // Algo 1 : Sorting + Two Pointer : O(nlogn) , O(n)
 // 1. Sort so that two pointer is efficient to find unique pairs
+// 2. if diff == k then ++uniquePairs and left = skipLeftDuplicateNeighbours(left , nums);else if(diff < k) ++right;else ++left;if(left == right) ++right;
 class Solution {
     public int findPairs(int[] nums, int k) {
         if(nums.length < 2) return 0;
