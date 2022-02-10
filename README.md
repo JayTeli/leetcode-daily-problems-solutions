@@ -378,7 +378,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 198. House Robber | ComingSoon | WIP-Comment |
 | WIP-Tag | 642. Design Search Autocomplete System | ComingSoon | WIP-Comment |
 | WIP-Tag | 38. Count and Say | ComingSoon | WIP-Comment |
-| WIP-Tag | 349. Intersection of Two Arrays | ComingSoon | WIP-Comment |
+| Array | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/349._Intersection_of_Two_Arrays.java) | Use two sets and may use s1.retainAll(s2) |
 | WIP-Tag | 133. Clone Graph | ComingSoon | WIP-Comment |
 | WIP-Tag | 118. Pascal's Triangle | ComingSoon | WIP-Comment |
 | WIP-Tag | 92. Reverse Linked List II | ComingSoon | WIP-Comment |
