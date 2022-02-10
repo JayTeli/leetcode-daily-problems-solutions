@@ -8,6 +8,7 @@ https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
+|10/02/2022 | [560. Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/560._Subarray_Sum_Equals_K.java) | Using Cumulative Sum; Nested loop and constant space; HashMap + Cummulative Sum; |  
 |09/02/2022 | [532. K-diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/532._K-diff_Pairs_in_an_Array.java) | Sort + if diff == k then ++uniquePairs and left = skipLeftDuplicateNeighbours(left , nums);else if(diff < k) ++right;else ++left;if(left == right) ++right; HashMap : set freq , for k == 0 if value >= 2 , count++ else if k > 0 , for key=x,if key=x+k exists then count++|
 |08/02/2022 | [258. Add Digits](https://leetcode.com/problems/add-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/258._Add_Digits.java)| Digit root : x == 0 ? 0 : 1 + (x-1)%9 | 
 |07/02/2022 | [389. Find the Difference](https://leetcode.com/problems/find-the-difference/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/389._Find_the_Difference.java)| Starting result with last char of 2nd string , XOR ^ all chars of both strings L to R.|
