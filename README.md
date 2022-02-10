@@ -454,7 +454,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1487. Making File Names Unique | ComingSoon | WIP-Comment |
 | WIP-Tag | 19. Remove Nth Node From End of List | ComingSoon | WIP-Comment |
 | WIP-Tag | 547. Number of Provinces | ComingSoon | WIP-Comment |
-| WIP-Tag | [494. Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/494._Target_Sum.java) | Backtracking/Brute-Force; Top-Down DP with Memoization; Bottom Up Algo; 1D DP |
+| Dynamic Programming | [494. Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/494._Target_Sum.java) | Backtracking/Brute-Force; Top-Down DP with Memoization; Bottom Up Algo; 1D DP |
 | WIP-Tag | 1031. Maximum Sum of Two Non-Overlapping Subarrays | ComingSoon | WIP-Comment |
 | WIP-Tag | 130. Surrounded Regions | ComingSoon | WIP-Comment |
 | WIP-Tag | 407. Trapping Rain Water II | ComingSoon | WIP-Comment |
