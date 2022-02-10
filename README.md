@@ -41,7 +41,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Array | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | ComingSoon | |
 | Array | [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/152._Maximum_Product_Subarray.java) | Keep track of prevMaxSoFar , newMaxSoFar , minSoFar to get result. Odd no of Negative numbers and zeros can be hurdles to build max prod subarray|
 | Array | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/153._Find_Minimum_in_Rotated_Sorted_Array.java) | Binary search with base cases like aLength = 0,1; rotation=0/a.length Times; mid=largest,mid=smallest; and identify smallest on which side.|
-| Array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | ComingSoon | |
+| Array | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/33._Search_in_Rotated_Sorted_Array.java) | Binary Search : if a[left]<=mid => range[left  mid) is sorted and target comparison can be done with a[left] and mid. Slly for (mid right] range.|
 | Array | [3Sum](https://leetcode.com/problems/3sum/) | ComingSoon | |
 | Array | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | ComingSoon | |
 | Binary | [Sum of Two Integers](https://leetcode.com/problems/sum-of-two-integers/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/371._Sum_of_Two_Integers.java) | a^b => sum of a and b without carry; (a&b)<<1 => carry; a^b => diff of a and n without borrow ; ((~x)&y)<<1 => borrow; loop conditions will be carry/borrow != 0; return sign*x |
@@ -157,7 +157,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 212. Word Search II | ComingSoon | WIP-Comment |
 | WIP-Tag | 1326. Minimum Number of Taps to Open to Water a Garden | ComingSoon | WIP-Comment |
 | Divide and Conquer , Heap | [23. Merge K Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/23._Merge_k_Sorted_Lists.java) | In Algo 1 , add all elements of all lists to Heap(Priority Queue + Comparator) then poll pq and set next of prev node to polled element. In Algo 2 without Heap , use divide and conquer to break the list into half with base case of size 2 returning smaller no. then merge left and right lists , with currentNode pointer's next pointing to the smaller head of the two lists.|
-| WIP-Tag | 33. Search in Rotated Sorted Array | ComingSoon | WIP-Comment |
+| Binary Search | [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/33._Search_in_Rotated_Sorted_Array.java) | Binary Search : if a[left]<=mid => range[left  mid) is sorted and target comparison can be done with a[left] and mid. Slly for (mid right] range.|
 | WIP-Tag | 236. Lowest Common Ancestor of a Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1041. Robot Bounded In Circle | ComingSoon | WIP-Comment |
 | WIP-Tag | 973. K Closest Points to Origin | ComingSoon | WIP-Comment |
@@ -454,7 +454,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1487. Making File Names Unique | ComingSoon | WIP-Comment |
 | WIP-Tag | 19. Remove Nth Node From End of List | ComingSoon | WIP-Comment |
 | WIP-Tag | 547. Number of Provinces | ComingSoon | WIP-Comment |
-| WIP-Tag | 494. Target Sum | ComingSoon | WIP-Comment |
+| WIP-Tag | [494. Target Sum](https://leetcode.com/problems/target-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/494._Target_Sum.java) | Backtracking/Brute-Force; Top-Down DP with Memoization; Bottom Up Algo; 1D DP |
 | WIP-Tag | 1031. Maximum Sum of Two Non-Overlapping Subarrays | ComingSoon | WIP-Comment |
 | WIP-Tag | 130. Surrounded Regions | ComingSoon | WIP-Comment |
 | WIP-Tag | 407. Trapping Rain Water II | ComingSoon | WIP-Comment |
