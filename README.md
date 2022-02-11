@@ -290,7 +290,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1293. Shortest Path in a Grid with Obstacles Elimination | ComingSoon | WIP-Comment |
 | WIP-Tag | 356. Line Reflection | ComingSoon | WIP-Comment |
 | WIP-Tag | 1481. Least Number of Unique Integers after K Removals | ComingSoon | WIP-Comment |
-| WIP-Tag | 46. Permutations | ComingSoon | WIP-Comment |
+| Backtracking | [46. Permutations](https://leetcode.com/problems/permutations/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/46._Permutations.java) | In Backtrack , iterate from startIndex to end of list , swap startIndex with ith index and backtrack and reswap. When startIndex reaches n , add list to output |
 | WIP-Tag | 1413. Minimum Value to Get Positive Step by Step Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | 465. Optimal Account Balancing | ComingSoon | WIP-Comment |
 | WIP-Tag | 412. Fizz Buzz | ComingSoon | WIP-Comment |
