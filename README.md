@@ -357,7 +357,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 907. Sum of Subarray Minimums | ComingSoon | WIP-Comment |
 | WIP-Tag | 242. Valid Anagram | ComingSoon | WIP-Comment |
 | WIP-Tag | 773. Sliding Puzzle | ComingSoon | WIP-Comment |
-| WIP-Tag | 518. Coin Change 2 | ComingSoon | WIP-Comment |
+| Dynamic Programming | [518. Coin Change 2](https://leetcode.com/problems/coin-change-2) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/518._Coin_Change_2.java) | Unbounded Knapsack : for a>=c , dp[a] += dp[a-c]|
 | WIP-Tag | 1507. Reformat Date | ComingSoon | WIP-Comment |
 | WIP-Tag | 430. Flatten a Multilevel Doubly Linked List | ComingSoon | WIP-Comment |
 | WIP-Tag | 1539. Kth Missing Positive Number | ComingSoon | WIP-Comment |
