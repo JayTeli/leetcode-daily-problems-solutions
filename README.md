@@ -102,7 +102,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Tree | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/124._Binary_Tree_Maximum_Path_Sum.java) | leftGain = Math.max(0 , calcMaxGain(node.left)); slly rightGain;gain for Node = node.val + Math.max(leftGain, rightGain);newPathGain = leftGain + node.val + rightGain; maxSum = Math.max(maxSum , newPathGain); |
 | Tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ComingSoon | |
 | Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/297._Serialize_and_Deserialize_Binary_Tree.java) | String Concat DFS PreOrder Traversal result.|
-| Tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ComingSoon | |
+| Tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/572._Subtree_of_Another_Tree.java) | compareSubtree recursively. |
 | Tree | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ComingSoon | |
 | Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ComingSoon | |
 | Tree | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ComingSoon | |
