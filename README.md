@@ -454,7 +454,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1547. Minimum Cost to Cut a Stick | ComingSoon | WIP-Comment |
 | WIP-Tag | 1319. Number of Operations to Make Network Connected | ComingSoon | WIP-Comment |
 | WIP-Tag | 1994. The Number of Good Subsets | ComingSoon | WIP-Comment |
-| Dynamic Programming | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/894._All_Possible_Full_Binary_Trees.java) | WIP-Comment |
+| Dynamic Programming | [894. All Possible Full Binary Trees](https://leetcode.com/problems/all-possible-full-binary-trees/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/894._All_Possible_Full_Binary_Trees.java) | Each node in Full BT has either 0 or 2 children;Full BT cannot have even no of nodes. coz root+evenchild = odd;Each child node is FBT;if left has l nodes , right has n-l-1 nodes; |
 | WIP-Tag | 1487. Making File Names Unique | ComingSoon | WIP-Comment |
 | WIP-Tag | 19. Remove Nth Node From End of List | ComingSoon | WIP-Comment |
 | WIP-Tag | 547. Number of Provinces | ComingSoon | WIP-Comment |
