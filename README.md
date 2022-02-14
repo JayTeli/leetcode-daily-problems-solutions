@@ -528,7 +528,7 @@ https://leetcode.com/problemset/all
 | Bit Manipulation | [136. Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/136._Single_Number.java) | XOR all elememts |
 | WIP-Tag | 160. Intersection of Two Linked Lists | ComingSoon | WIP-Comment |
 | WIP-Tag | 321. Create Maximum Number | ComingSoon | WIP-Comment |
-| WIP-Tag | 219. Contains Duplicate II | ComingSoon | WIP-Comment |
+| Array | [219. Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/219._Contains_Duplicate_II.java) | Sliding Window , HashMap , HashSet |
 | WIP-Tag | 1348. Tweet Counts Per Frequency | ComingSoon | WIP-Comment |
 | WIP-Tag | 805. Split Array With Same Average | ComingSoon | WIP-Comment |
 | WIP-Tag | 223. Rectangle Area | ComingSoon | WIP-Comment |
