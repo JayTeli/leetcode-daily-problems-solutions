@@ -310,7 +310,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 336. Palindrome Pairs | ComingSoon | WIP-Comment |
 | WIP-Tag | 827. Making A Large Island | ComingSoon | WIP-Comment |
 | WIP-Tag | 300. Longest Increasing Subsequence | ComingSoon | WIP-Comment |
-| WIP-Tag | 96. Unique Binary Search Trees | ComingSoon | WIP-Comment |
+| Dynamic Programming | [96. Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/96._Unique_Binary_Search_Trees.java) | dp[0] = dp[1] = 1; dp[n] = for r=1 to n , summation of dp[r-1]*dp[n-r]; Or Catalan Number C(0) = 1 , C(n+1) = C(n)*[2(2n+1)/(n+2)] |
 | WIP-Tag | 698. Partition to K Equal Sum Subsets | ComingSoon | WIP-Comment |
 | WIP-Tag | 126. Word Ladder II | ComingSoon | WIP-Comment |
 | WIP-Tag | 556. Next Greater Element III | ComingSoon | WIP-Comment |
