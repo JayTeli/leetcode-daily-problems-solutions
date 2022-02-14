@@ -486,7 +486,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 101. Symmetric Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1959. Minimum Total Space Wasted With K Resizing Operations | ComingSoon | WIP-Comment |
 | WIP-Tag | 1423. Maximum Points You Can Obtain from Cards | ComingSoon | WIP-Comment |
-| WIP-Tag | 226. Invert Binary Tree | ComingSoon | WIP-Comment |
+| Breadth First Search | [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/226._Invert_Binary_Tree.java) | Invert subtree via recursion and then update left right ptrs; Push NonNull children in queue. Swap left and right ptrs of head.|
 | WIP-Tag | 450. Delete Node in a BST | ComingSoon | WIP-Comment |
 | WIP-Tag | 181. Employees Earning More Than Their Managers | ComingSoon | WIP-Comment |
 | WIP-Tag | 1092. Shortest Common Supersequence | ComingSoon | WIP-Comment |
