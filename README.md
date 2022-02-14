@@ -101,7 +101,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Tree | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/226._Invert_Binary_Tree.java) | Invert subtree via recursion and then update left right ptrs; Push NonNull children in queue. Swap left and right ptrs of head.|
 | Tree | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/124._Binary_Tree_Maximum_Path_Sum.java) | leftGain = Math.max(0 , calcMaxGain(node.left)); slly rightGain;gain for Node = node.val + Math.max(leftGain, rightGain);newPathGain = leftGain + node.val + rightGain; maxSum = Math.max(maxSum , newPathGain); |
 | Tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ComingSoon | |
-| Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ComingSoon | |
+| Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/297._Serialize_and_Deserialize_Binary_Tree.java) | String Concat DFS PreOrder Traversal result.|
 | Tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ComingSoon | |
 | Tree | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | ComingSoon | |
 | Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ComingSoon | |
@@ -192,7 +192,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 526. Beautiful Arrangement | ComingSoon | WIP-Comment |
 | WIP-Tag | 139. Word Break | ComingSoon | WIP-Comment |
 | WIP-Tag | 529. Minesweeper | ComingSoon | WIP-Comment |
-| WIP-Tag | 297. Serialize and Deserialize Binary Tree | ComingSoon | WIP-Comment |
+| Depth First Search | [297. Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/297._Serialize_and_Deserialize_Binary_Tree.java) | String Concat DFS PreOrder Traversal result.|
 | WIP-Tag | 269. Alien Dictionary | ComingSoon | WIP-Comment |
 | WIP-Tag | 937. Reorder Data in Log Files | ComingSoon | WIP-Comment |
 | WIP-Tag | 981. Time Based Key-Value Store | ComingSoon | WIP-Comment |
