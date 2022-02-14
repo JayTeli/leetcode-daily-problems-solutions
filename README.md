@@ -519,7 +519,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 189. Rotate Array | ComingSoon | WIP-Comment |
 | WIP-Tag | 854. K-Similar Strings | ComingSoon | WIP-Comment |
 | WIP-Tag | 1383. Maximum Performance of a Team | ComingSoon | WIP-Comment |
-| WIP-Tag | 662. Maximum Width of Binary Tree | ComingSoon | WIP-Comment |
+| BFS | [662. Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/662._Maximum_Width_of_Binary_Tree.java) | WidthOfLevel = 1 + indexOfLevelTail - indexOfLevelHead; Note : If parentIndex = i , leftChildindex = 2i , rightChildIndex = 2i+1; |
 | WIP-Tag | 340. Longest Substring with At Most K Distinct Characters | ComingSoon | WIP-Comment |
 | WIP-Tag | 1188. Design Bounded Blocking Queue | ComingSoon | WIP-Comment |
 | WIP-Tag | 836. Rectangle Overlap | ComingSoon | WIP-Comment |
