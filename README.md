@@ -97,7 +97,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | String | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | ComingSoon | |
 | String | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | ComingSoon | |
 | Tree | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/104._Maximum_Depth_of_Binary_Tree.java) | Use two stacks in parallel : one to track children and other to track depth. Once poped first stack will give stackTop and other will give depth of stackTop. |
-| Tree | [Same Tree](https://leetcode.com/problems/same-tree/) | ComingSoon | |
+| Tree | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/100._Same_Tree.java) | Using Recursion; Use two two Deque to compare children and helper to compare nodes |
 | Tree | [Invert/Flip Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | ComingSoon | |
 | Tree | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ComingSoon | |
 | Tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ComingSoon | |
