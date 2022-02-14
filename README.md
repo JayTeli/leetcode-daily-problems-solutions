@@ -99,7 +99,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Tree | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/104._Maximum_Depth_of_Binary_Tree.java) | Use two stacks in parallel : one to track children and other to track depth. Once poped first stack will give stackTop and other will give depth of stackTop. |
 | Tree | [Same Tree](https://leetcode.com/problems/same-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/100._Same_Tree.java) | Using Recursion; Use two two Deque to compare children and helper to compare nodes |
 | Tree | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/226._Invert_Binary_Tree.java) | Invert subtree via recursion and then update left right ptrs; Push NonNull children in queue. Swap left and right ptrs of head.|
-| Tree | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | ComingSoon | |
+| Tree | [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/124._Binary_Tree_Maximum_Path_Sum.java) | leftGain = Math.max(0 , calcMaxGain(node.left)); slly rightGain;gain for Node = node.val + Math.max(leftGain, rightGain);newPathGain = leftGain + node.val + rightGain; maxSum = Math.max(maxSum , newPathGain); |
 | Tree | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | ComingSoon | |
 | Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | ComingSoon | |
 | Tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | ComingSoon | |
@@ -175,7 +175,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 295. Find Median from Data Stream | ComingSoon | WIP-Comment |
 | WIP-Tag | 1197. Minimum Knight Moves | ComingSoon | WIP-Comment |
 | WIP-Tag | 443. String Compression | ComingSoon | WIP-Comment |
-| WIP-Tag | 124. Binary Tree Maximum Path Sum | ComingSoon | WIP-Comment |
+| Binary Tree | [124. Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/124._Binary_Tree_Maximum_Path_Sum.java) | leftGain = Math.max(0 , calcMaxGain(node.left)); slly rightGain;gain for Node = node.val + Math.max(leftGain, rightGain);newPathGain = leftGain + node.val + rightGain; maxSum = Math.max(maxSum , newPathGain); |
 | WIP-Tag | 224. Basic Calculator | ComingSoon | WIP-Comment |
 | WIP-Tag | 1570. Dot Product of Two Sparse Vectors | ComingSoon | WIP-Comment |
 | WIP-Tag | 174. Dungeon Game | ComingSoon | WIP-Comment |
