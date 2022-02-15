@@ -8,6 +8,7 @@ https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
+|15/02/2022 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/136._Single_Number.java) | XOR all elememts |
 |14/02/2022 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/104._Maximum_Depth_of_Binary_Tree.java) | Use two stacks in parallel : one to track children and other to track depth. Once poped first stack will give stackTop and other will give depth of stackTop. |
 |13/02/2022 | [78. Subsets](https://leetcode.com/problems/subsets/) | ComingSoon | WIP-Comment |
 |12/02/2022 | [127. Word Ladder](https://leetcode.com/problems/word-ladder/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/127._Word_Ladder.java) | Bidirectional BFS with precomputation ; Bidirectional BFS using sets instead of queue |
