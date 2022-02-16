@@ -506,7 +506,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 516. Longest Palindromic Subsequence | ComingSoon | WIP-Comment |
 | WIP-Tag | 30. Substring with Concatenation of All Words | ComingSoon | WIP-Comment |
 | WIP-Tag | 445. Add Two Numbers II | ComingSoon | WIP-Comment |
-| WIP-Tag | 105. Construct Binary Tree from Preorder and Inorder Traversal | ComingSoon | WIP-Comment |
+| Tree | [105. Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) | Preorder : Root->Left->Right , Inorder : Left->Root->Right;Preorder tells Root via its first element;Inorder tell left subtree of root and right subtree of root;preorderIndex variable and inorderIndexMap , we recurse over preorder element|
 | WIP-Tag | 1817. Finding the Users Active Minutes | ComingSoon | WIP-Comment |
 | WIP-Tag | 979. Distribute Coins in Binary Tree | ComingSoon | WIP-Comment |
 | WIP-Tag | 1166. Design File System | ComingSoon | WIP-Comment |
