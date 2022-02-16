@@ -86,7 +86,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Linked List | [Reorder List](https://leetcode.com/problems/reorder-list/) | ComingSoon | |
 | Matrix | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ComingSoon | |
 | Matrix | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | ComingSoon | |
-| Matrix | [Rotate Image](https://leetcode.com/problems/rotate-image/) | ComingSoon | |
+| Matrix | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
 | Matrix | [Word Search](https://leetcode.com/problems/word-search/) | ComingSoon | |
 | String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ComingSoon | |
 | String | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ComingSoon | |
