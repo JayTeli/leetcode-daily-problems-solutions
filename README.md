@@ -244,7 +244,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1048. Longest String Chain | ComingSoon | WIP-Comment |
 | WIP-Tag | 339. Nested List Weight Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | 125. Valid Palindrome | ComingSoon | WIP-Comment |
-| WIP-Tag | 48. Rotate Image | ComingSoon | WIP-Comment |
+| Matrix | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
 | WIP-Tag | 322. Coin Change | ComingSoon | WIP-Comment |
 | WIP-Tag | 6. Zigzag Conversion | ComingSoon | WIP-Comment |
 | WIP-Tag | 862. Shortest Subarray with Sum at Least K | ComingSoon | WIP-Comment |
