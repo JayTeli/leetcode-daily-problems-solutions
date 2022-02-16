@@ -106,7 +106,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Tree | [Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/297._Serialize_and_Deserialize_Binary_Tree.java) | String Concat DFS PreOrder Traversal result.|
 | Tree | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/572._Subtree_of_Another_Tree.java) | compareSubtree recursively. |
 | Tree | [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/105._Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.java) | Preorder : Root->Left->Right , Inorder : Left->Root->Right;Preorder tells Root via its first element;Inorder tell left subtree of root and right subtree of root;preorderIndex variable and inorderIndexMap , we recurse over preorder element|
-| Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | ComingSoon | |
+| Tree | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/98._Validate_Binary_Search_Tree.java) | Recursion + Value-Range;Iterative + Valid-Range + Stack;Recursion + Inorder;Iteration + Inorder; |
 | Tree | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) | ComingSoon | |
 | Tree | [Lowest Common Ancestor of BST](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) | ComingSoon | |
 | Tree | [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) | ComingSoon | |
@@ -355,7 +355,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 523. Continuous Subarray Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | 218. The Skyline Problem | ComingSoon | WIP-Comment |
 | WIP-Tag | 169. Majority Element | ComingSoon | WIP-Comment |
-| WIP-Tag | 98. Validate Binary Search Tree | ComingSoon | WIP-Comment |
+| Tree | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/98._Validate_Binary_Search_Tree.java) | Recursion + Value-Range;Iterative + Valid-Range + Stack;Recursion + Inorder;Iteration + Inorder; |
 | WIP-Tag | 75. Sort Colors | ComingSoon | WIP-Comment |
 | WIP-Tag | 605. Can Place Flowers | ComingSoon | WIP-Comment |
 | WIP-Tag | 1386. Cinema Seat Allocation | ComingSoon | WIP-Comment |
