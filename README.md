@@ -89,7 +89,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Matrix | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
 | Matrix | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/79._Word_Search.java) | if no mismatch , mark cell with # , visit its neighbours using rowOffsets and colOffsets to see if word is found ,  else backtrack and return false. |
 | String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ComingSoon | |
-| String | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ComingSoon | |
+| String | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/424._Longest_Repeating_Character_Replacement.java) |  If no of other characters (other than high freq char) is more than k then shrink window i.e. Shrink : ((windowEnd-windowStart + 1) - maxFreqInWindow) > k|
 | String | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ComingSoon | |
 | String | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ComingSoon | |
 | String | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ComingSoon | |
@@ -535,7 +535,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 805. Split Array With Same Average | ComingSoon | WIP-Comment |
 | WIP-Tag | 223. Rectangle Area | ComingSoon | WIP-Comment |
 | WIP-Tag | 116. Populating Next Right Pointers in Each Node | ComingSoon | WIP-Comment |
-| WIP-Tag | 424. Longest Repeating Character Replacement | ComingSoon | WIP-Comment |
+| String,Sliding Window | [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/424._Longest_Repeating_Character_Replacement.java) |  If no of other characters (other than high freq char) is more than k then shrink window i.e. Shrink : ((windowEnd-windowStart + 1) - maxFreqInWindow) > k|
 | WIP-Tag | 209. Minimum Size Subarray Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | 895. Maximum Frequency Stack | ComingSoon | WIP-Comment |
 | WIP-Tag | 1086. High Five | ComingSoon | WIP-Comment |
