@@ -65,7 +65,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Dynamic Programming | [Decode Ways](https://leetcode.com/problems/decode-ways/) | ComingSoon | |
 | Dynamic Programming | [Unique Paths](https://leetcode.com/problems/unique-paths/) | ComingSoon | |
 | Dynamic Programming | [Jump Game](https://leetcode.com/problems/jump-game/) | ComingSoon | |
-| Graph | [Clone Graph](https://leetcode.com/problems/clone-graph/) | ComingSoon | |
+| Graph | [Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/133._Clone_Graph.java) | DFS Recursive , BFS Iterative|
 | Graph | [Course Schedule](https://leetcode.com/problems/course-schedule/) | ComingSoon | |
 | Graph | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) | ComingSoon | |
 | Graph | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | ComingSoon | |
@@ -384,7 +384,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 642. Design Search Autocomplete System | ComingSoon | WIP-Comment |
 | WIP-Tag | 38. Count and Say | ComingSoon | WIP-Comment |
 | Array | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/349._Intersection_of_Two_Arrays.java) | Use two sets and may use s1.retainAll(s2) |
-| WIP-Tag | 133. Clone Graph | ComingSoon | WIP-Comment |
+| Graph | [133. Clone Graph](https://leetcode.com/problems/clone-graph/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/133._Clone_Graph.java) | DFS Recursive , BFS Iterative|
 | WIP-Tag | 118. Pascal's Triangle | ComingSoon | WIP-Comment |
 | WIP-Tag | 92. Reverse Linked List II | ComingSoon | WIP-Comment |
 | WIP-Tag | 496. Next Greater Element I | ComingSoon | WIP-Comment |
