@@ -94,7 +94,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | String | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | ComingSoon | |
 | String | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | ComingSoon | |
 | String | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | ComingSoon | |
-| String | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | ComingSoon | |
+| String | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/125._Valid_Palindrome.java) | Two Pointer |
 | String | [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) | ComingSoon | |
 | String | [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/) | ComingSoon | |
 | String | [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) | ComingSoon | |
@@ -243,7 +243,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 25. Reverse Nodes in k-Group | ComingSoon | WIP-Comment |
 | WIP-Tag | 1048. Longest String Chain | ComingSoon | WIP-Comment |
 | WIP-Tag | 339. Nested List Weight Sum | ComingSoon | WIP-Comment |
-| WIP-Tag | 125. Valid Palindrome | ComingSoon | WIP-Comment |
+| WIP-Tag | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/125._Valid_Palindrome.java) | Two Pointer |
 | Matrix | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
 | WIP-Tag | 322. Coin Change | ComingSoon | WIP-Comment |
 | WIP-Tag | 6. Zigzag Conversion | ComingSoon | WIP-Comment |
