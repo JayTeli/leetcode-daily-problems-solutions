@@ -87,7 +87,7 @@ https://www.teamblind.com/post/New-Year-Gift---Curated-List-of-Top-75-LeetCode-Q
 | Matrix | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | ComingSoon | |
 | Matrix | [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/) | ComingSoon | |
 | Matrix | [Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
-| Matrix | [Word Search](https://leetcode.com/problems/word-search/) | ComingSoon | |
+| Matrix | [Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/79._Word_Search.java) | if no mismatch , mark cell with # , visit its neighbours using rowOffsets and colOffsets to see if word is found ,  else backtrack and return false. |
 | String | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | ComingSoon | |
 | String | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) | ComingSoon | |
 | String | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | ComingSoon | |
@@ -169,7 +169,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 973. K Closest Points to Origin | ComingSoon | WIP-Comment |
 | WIP-Tag | 528. Random Pick with Weight | ComingSoon | WIP-Comment |
 | WIP-Tag | 227. Basic Calculator II | ComingSoon | WIP-Comment |
-| WIP-Tag | 79. Word Search | ComingSoon | WIP-Comment |
+| Matrix,Backtracking,DFS | [79. Word Search](https://leetcode.com/problems/word-search/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/79._Word_Search.java) | if no mismatch , mark cell with # , visit its neighbours using rowOffsets and colOffsets to see if word is found ,  else backtrack and return false. |
 | WIP-Tag | 1396. Design Underground System | ComingSoon | WIP-Comment |
 | WIP-Tag | 176. Second Highest Salary | ComingSoon | WIP-Comment |
 | WIP-Tag | 696. Count Binary Substrings | ComingSoon | WIP-Comment |
