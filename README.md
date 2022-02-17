@@ -9,6 +9,7 @@ https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
+|17/02/2022 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/39._Combination_Sum.java) | Backtracking : add element and backtrack , when remSum==0, deep copy the combination to result& when remSum<0,return;|
 |16/02/2022 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/24._Swap_Nodes_in_Pairs.java) | Recursion; Iteration with dummyNode and PrevNode|
 |15/02/2022 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/136._Single_Number.java) | XOR all elememts |
 |14/02/2022 | [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/104._Maximum_Depth_of_Binary_Tree.java) | Use two stacks in parallel : one to track children and other to track depth. Once poped first stack will give stackTop and other will give depth of stackTop. |
