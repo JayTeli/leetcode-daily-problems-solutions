@@ -2,6 +2,7 @@
 1. [Leetcode daily challenge problems](#leetcode-daily-challenge)
 2. [Blind 75](#blind-75)
 3. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
+4. [Aditya Verma] (#aditya-verma)
 
 ### Leetcode Daily Challenge
 https://leetcode.com/problemset/all/
@@ -622,3 +623,10 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 838. Push Dominoes | ComingSoon | WIP-Comment |
 | WIP-Tag | 847. Shortest Path Visiting All Nodes | ComingSoon | WIP-Comment |
 | WIP-Tag | 1823. Find the Winner of the Circular Game | ComingSoon | WIP-Comment |
+
+### Aditya Verma
+https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
+
+|Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
+|----------|:---------:|:-----:|----------|
+| WIP | WIP | ComingSoon | WIP|
