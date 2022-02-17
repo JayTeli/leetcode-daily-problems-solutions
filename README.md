@@ -608,7 +608,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 1963. Minimum Number of Swaps to Make the String Balanced | ComingSoon | WIP-Comment |
 | WIP-Tag | 1139. Largest 1-Bordered Square | ComingSoon | WIP-Comment |
 | WIP-Tag | 1834. Single-Threaded CPU | ComingSoon | WIP-Comment |
-| WIP-Tag | 40. Combination Sum II | ComingSoon | WIP-Comment |
+| Backtracking | [40. Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/40._Combination_Sum_II.java) | Only 3 difference from Combination Sum 1 problem's code : sorting , skip duplicates , 1+i |
 | WIP-Tag | 622. Design Circular Queue | ComingSoon | WIP-Comment |
 | WIP-Tag | 1948. Delete Duplicate Folders in System | ComingSoon | WIP-Comment |
 | WIP-Tag | 850. Rectangle Area II | ComingSoon | WIP-Comment |
