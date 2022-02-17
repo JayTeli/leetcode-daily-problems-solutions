@@ -1,6 +1,6 @@
 https://leetcode.com/problems/combination-sum-ii/
-// Algo 1 : Backtracking : O(n ^(1 + (t/cmin))) , O(t/cmin) ... t = target, cmin = min value in candidate array 
-// Only 3 difference from Combination Sum 1 problem's code : sorting , skip duplicates , 1+i
+// Algo 1 : Backtracking : O(2^n) , O(n)
+// Only 4 difference from Combination Sum 1 problem's code : sorting , skip duplicates , 1+i, and TC,SC
 class Solution {
     private List<List<Integer>> result;
     private int[] candidates;
