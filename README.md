@@ -185,7 +185,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 174. Dungeon Game | ComingSoon | WIP-Comment |
 | WIP-Tag | 50. Pow(x, n) | ComingSoon | WIP-Comment |
 | WIP-Tag | 13. Roman to Integer | ComingSoon | WIP-Comment |
-| WIP-Tag | 347. Top K Frequent Elements | ComingSoon | WIP-Comment |
+| Heap | [347. Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/347._Top_K_Frequent_Elements.java) | Heap + HashMap , QuickSelect + Lomuto's Parition scheme|
 | WIP-Tag | 1010. Pairs of Songs With Total Durations Divisible by 60 | ComingSoon | WIP-Comment |
 | WIP-Tag | 37. Sudoku Solver | ComingSoon | WIP-Comment |
 | WIP-Tag | 460. LFU Cache | ComingSoon | WIP-Comment |
