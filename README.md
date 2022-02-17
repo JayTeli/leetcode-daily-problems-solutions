@@ -2,7 +2,7 @@
 1. [Leetcode daily challenge problems](#leetcode-daily-challenge)
 2. [Blind 75](#blind-75)
 3. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
-4. [Aditya Verma] (#aditya-verma)
+4. [Aditya Verma](#aditya-verma)
 
 ### Leetcode Daily Challenge
 https://leetcode.com/problemset/all/
