@@ -264,7 +264,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 921. Minimum Add to Make Parentheses Valid | ComingSoon | WIP-Comment |
 | WIP-Tag | 1044. Longest Duplicate Substring | ComingSoon | WIP-Comment |
 | WIP-Tag | 740. Delete and Earn | ComingSoon | WIP-Comment |
-| WIP-Tag | 39. Combination Sum | ComingSoon | WIP-Comment |
+| Backtracking | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/39._Combination_Sum.java) | Backtracking : add element and backtrack , when remSum==0, deep copy the combination to result& when remSum<0,return;|
 | WIP-Tag | 1353. Maximum Number of Events That Can Be Attended | ComingSoon | WIP-Comment |
 | WIP-Tag | 704. Binary Search | ComingSoon | WIP-Comment |
 | WIP-Tag | 166. Fraction to Recurring Decimal | ComingSoon | WIP-Comment |
