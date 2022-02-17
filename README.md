@@ -558,7 +558,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 66. Plus One | ComingSoon | WIP-Comment |
 | WIP-Tag | 628. Maximum Product of Three Numbers | ComingSoon | WIP-Comment |
 | WIP-Tag | 611. Valid Triangle Number | ComingSoon | WIP-Comment |
-| WIP-Tag | 1779. Find Nearest Point That Has the Same X or Y Coordinate | ComingSoon | WIP-Comment |
+| Array | [1779. Find Nearest Point That Has the Same X or Y Coordinate](https://leetcode.com/problems/find-nearest-point-that-has-the-same-x-or-y-coordinate/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/1779._Find_Nearest_Point_That_Has_the_Same_X_or_Y_Coordinate.java) | Iterate |
 | WIP-Tag | 593. Valid Square | ComingSoon | WIP-Comment |
 | WIP-Tag | 141. Linked List Cycle | ComingSoon | WIP-Comment |
 | WIP-Tag | 309. Best Time to Buy and Sell Stock with Cooldown | ComingSoon | WIP-Comment |
