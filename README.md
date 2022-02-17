@@ -247,7 +247,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 339. Nested List Weight Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/125._Valid_Palindrome.java) | Two Pointer |
 | Matrix | [48. Rotate Image](https://leetcode.com/problems/rotate-image/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/48._Rotate_Image.java) | Transpose + Reverse :  First swap with topleft-BottomRight digaonal as mirror then reverse each row; Rotate in groups of 4 cells. int x = n-i-1 , y = n-j-1;|
-| WIP-Tag | 322. Coin Change | ComingSoon | WIP-Comment |
+| Dynamic Programming | [322. Coin Change](https://leetcode.com/problems/coin-change/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/322._Coin_Change.java) | TopDownDp : dp[i] = Math.min(1 + dp[i-c1], 1 + dp[i-c2],..); BottomUpDp : dp[0]=0;for all a and c , ifa-c>=0 , dp[a] = Math.min(dp[a] , 1+dp[a-c]) |
 | WIP-Tag | 6. Zigzag Conversion | ComingSoon | WIP-Comment |
 | WIP-Tag | 862. Shortest Subarray with Sum at Least K | ComingSoon | WIP-Comment |
 | Array | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/217._Contains_Duplicate.java) | Use HashSet to detect dupes.|
