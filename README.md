@@ -542,7 +542,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 895. Maximum Frequency Stack | ComingSoon | WIP-Comment |
 | WIP-Tag | 1086. High Five | ComingSoon | WIP-Comment |
 | WIP-Tag | 1360. Number of Days Between Two Dates | ComingSoon | WIP-Comment |
-| WIP-Tag | 402. Remove K Digits | ComingSoon | WIP-Comment |
+| Greedy | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/402._Remove_K_Digits.java) | While iterating over char of string , pop all elements of stack that are greater than current digit and then push current digit.;if k is still +ve and stack is not empty , remaining no is monotonically increasing. so pop first k elements directly.;ans = stack bottom to stack top , with leading zeros excluded.; |
 | WIP-Tag | 354. Russian Doll Envelopes | ComingSoon | WIP-Comment |
 | WIP-Tag | 165. Compare Version Numbers | ComingSoon | WIP-Comment |
 | WIP-Tag | 480. Sliding Window Median | ComingSoon | WIP-Comment |
