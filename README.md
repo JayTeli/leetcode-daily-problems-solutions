@@ -9,6 +9,7 @@ https://leetcode.com/problemset/all/
 
 |Date  | Problem  | Solution  | Comment|
 |-------|:-----:|:-----:|--------|
+|18/02/2022 | [402. Remove K Digits](https://leetcode.com/problems/remove-k-digits/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/402._Remove_K_Digits.java) | While iterating over char of string , pop all elements of stack that are greater than current digit and then push current digit.;if k is still +ve and stack is not empty , remaining no is monotonically increasing. so pop first k elements directly.;ans = stack bottom to stack top , with leading zeros excluded.; |
 |17/02/2022 | [39. Combination Sum](https://leetcode.com/problems/combination-sum/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/39._Combination_Sum.java) | Backtracking : add element and backtrack , when remSum==0, deep copy the combination to result& when remSum<0,return;|
 |16/02/2022 | [24. Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/24._Swap_Nodes_in_Pairs.java) | Recursion; Iteration with dummyNode and PrevNode|
 |15/02/2022 | [136. Single Number](https://leetcode.com/problems/single-number/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/136._Single_Number.java) | XOR all elememts |
