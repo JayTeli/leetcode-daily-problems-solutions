@@ -255,7 +255,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 207. Course Schedule | ComingSoon | WIP-Comment |
 | WIP-Tag | 32. Longest Valid Parentheses | ComingSoon | WIP-Comment |
 | WIP-Tag | 34. Find First and Last Position of Element in Sorted Array | ComingSoon | WIP-Comment |
-| WIP-Tag | 88. Merge Sorted Array | ComingSoon | WIP-Comment |
+| Array | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | [Java](https://leetcode.com/problems/merge-sorted-array) | Three pointers and store from end of first array |
 | WIP-Tag | 122. Best Time to Buy and Sell Stock II | ComingSoon | WIP-Comment |
 | WIP-Tag | 716. Max Stack | ComingSoon | WIP-Comment |
 | WIP-Tag | 341. Flatten Nested List Iterator | ComingSoon | WIP-Comment |
