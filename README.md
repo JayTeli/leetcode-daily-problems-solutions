@@ -357,7 +357,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 312. Burst Balloons | ComingSoon | WIP-Comment |
 | WIP-Tag | 523. Continuous Subarray Sum | ComingSoon | WIP-Comment |
 | WIP-Tag | 218. The Skyline Problem | ComingSoon | WIP-Comment |
-| WIP-Tag | 169. Majority Element | ComingSoon | WIP-Comment |
+| WIP-Tag | [169. Majority Element](https://leetcode.com/problems/majority-element/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/169._Majority_Element.java) | Boyer-Moore Voting Algorithm : when 0 , set candidate. else +1 when found and -1 for others.|
 | Tree | [98. Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/98._Validate_Binary_Search_Tree.java) | Recursion + Value-Range;Iterative + Valid-Range + Stack;Recursion + Inorder;Iteration + Inorder; |
 | WIP-Tag | 75. Sort Colors | ComingSoon | WIP-Comment |
 | WIP-Tag | 605. Can Place Flowers | ComingSoon | WIP-Comment |
