@@ -586,7 +586,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 449. Serialize and Deserialize BST | ComingSoon | WIP-Comment |
 | WIP-Tag | 272. Closest Binary Search Tree Value II | ComingSoon | WIP-Comment |
 | WIP-Tag | 564. Find the Closest Palindrome | ComingSoon | WIP-Comment |
-| WIP-Tag | 229. Majority Element II | ComingSoon | WIP-Comment |
+| Array | [229. Majority Element II](https://leetcode.com/problems/majority-element-ii/) | [Java](https://github.com/JayTeli/leetcode-daily-problems-solutions/blob/master/src/java/229._Majority_Element_II.java) | Two candidates , Two passes |
 | WIP-Tag | 856. Score of Parentheses | ComingSoon | WIP-Comment |
 | WIP-Tag | 378. Kth Smallest Element in a Sorted Matrix | ComingSoon | WIP-Comment |
 | WIP-Tag | 102. Binary Tree Level Order Traversal | ComingSoon | WIP-Comment |
