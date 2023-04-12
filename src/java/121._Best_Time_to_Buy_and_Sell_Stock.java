@@ -16,13 +16,11 @@ class Solution {
 // Algo 2 : One-Pass Iteration : O(n) , O(1)
 public class Solution {
     public int maxProfit(int prices[]) {
-        int minPrice = Integer.MAX_VALUE , maxProfit = 0;
+        int maxProfit = Integer.MIN_VALUE , minPrice = Integer.MAX_VALUE;
         for(int i = 0 ; i < prices.length ; i++) {
-            if(minPrice > prices[i])
-                minPrice = prices[i];
-            if(maxProfit < prices[i] - minPrice)
-                maxProfit = prices[i] - minPrice;
-        } 
+            minPrice = Math.min(minPrice, prices[i]);
+            maxProfit = Math.max(maxProfit, prices[i] - minPrice);
+        }
         return maxProfit;
     }
 }
