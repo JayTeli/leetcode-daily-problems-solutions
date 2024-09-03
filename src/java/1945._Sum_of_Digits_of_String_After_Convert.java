@@ -10,7 +10,7 @@ class Solution {
                 tempNo /= 10;
             }
         }
-        for(int i = 0 ; i < k-1 ; i++) {
+        for(int i = 0 ; i < k-1 ; i++) { // Note : k-1 times (and not k times)
             int digitSum = 0;
             while(resultSum > 0) {
                 digitSum += (resultSum % 10);
