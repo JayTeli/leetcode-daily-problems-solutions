@@ -20,15 +20,6 @@ class Solution {
         }
         return resultSum;
     }
-
-    private int sumOfDigits(int input) {
-        int digitSum = 0;
-        while(input > 0) {
-            digitSum += (input % 10);
-            input /= 10;
-        }
-        return digitSum;
-    }
 }
 
 /*
