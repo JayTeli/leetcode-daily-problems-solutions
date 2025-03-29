@@ -10,7 +10,7 @@
 ### DSA Patterns
 
 
--------
+--- 
 ### Leetcode Daily Challenge
 https://leetcode.com/problemset/all/
 
@@ -634,6 +634,7 @@ https://leetcode.com/problemset/all
 | WIP-Tag | 847. Shortest Path Visiting All Nodes | ComingSoon | WIP-Comment |
 | WIP-Tag | 1823. Find the Winner of the Circular Game | ComingSoon | WIP-Comment |
 
+--- 
 ### Aditya Verma
 https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
 
@@ -641,6 +642,7 @@ https://www.youtube.com/channel/UC5WO7o71wvxMxEtLRkPhiQQ
 |----------|:---------:|:-----:|----------|
 | WIP | WIP | ComingSoon | WIP|
 
+--- 
 ### Striver SDE Sheet
 https://takeuforward.org/interviews/strivers-sde-sheet-top-coding-interview-problems
 |Tag &nbsp;&nbsp;&nbsp; |Problem &nbsp;&nbsp;&nbsp;  | Solution  | Comment|
