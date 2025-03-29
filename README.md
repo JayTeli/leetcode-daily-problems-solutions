@@ -1,9 +1,13 @@
 ## Table of contents :
-1. [Leetcode daily challenge problems](#leetcode-daily-challenge)
-2. [Blind 75](#blind-75)
-3. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
-4. [Aditya Verma](#aditya-verma)
-5. [Striver SDE Sheet](#striver-sde-sheet)
+1. [DSA-Patterns] [#dsa-patterns]
+2. [Leetcode daily challenge problems](#leetcode-daily-challenge)
+3. [Blind 75](#blind-75)
+4. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
+5. [Aditya Verma](#aditya-verma)
+6. [Striver SDE Sheet](#striver-sde-sheet)
+
+### DSA-Patterns
+
 
 ### Leetcode Daily Challenge
 https://leetcode.com/problemset/all/
