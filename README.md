@@ -1,12 +1,13 @@
 ## Table of contents :
-1. [DSA-Patterns] (#dsa-patterns)
+1. [DSA Patterns] (#dsa-patterns)
 2. [Leetcode daily challenge problems](#leetcode-daily-challenge)
 3. [Blind 75](#blind-75)
 4. [Top 500 Leetcode Questions](#top-500-leetcode-questions)
 5. [Aditya Verma](#aditya-verma)
 6. [Striver SDE Sheet](#striver-sde-sheet)
 
-### DSA-Patterns
+
+### DSA Patterns
 
 
 ### Leetcode Daily Challenge
