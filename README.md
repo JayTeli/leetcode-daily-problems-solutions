@@ -6,7 +6,7 @@
 5. [Aditya Verma](#aditya-verma)
 6. [Striver SDE Sheet](#striver-sde-sheet)
 
-### DSA-Patterns
+### DSA-Patterns[#dsa-patterns]
 
 
 ### Leetcode Daily Challenge
